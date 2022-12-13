@@ -1,0 +1,25 @@
+
+1. What do you mean by cells in an excel sheet?
+Cells are the boxes you see in the grid of an Excel worksheet, like this one. Each cell is identified on a worksheet by its reference,
+ the column letter and row number that intersect at the cell's location. This cell is in column D and row 5, so it is cell D5. 
+ The column always comes first in a cell reference.
+ 
+ 2.How can you restrict someone from copying a cell from your worksheet?
+ On the Review tab, click Protect Sheet. In the Allow all users of this worksheet to list, select the elements you want people to be able to change.
+ Move the pointer to cells for which the Locked box is checked on the Protection tab of the Format Cells dialog box. 
+ By default, users are allowed to select locked cells.
+ 
+ 3.How to move or copy the worksheet into another workbook?
+ Click the sheet that you want to copy to the other workbook. On the Edit menu, click Sheet > Move or Copy Sheet.
+ On the To book menu, click the workbook that you want to move the sheet to. 
+ 
+ 4. Which key is used as a shortcut for opening a new window document?
+ To quickly create a new blank file or email, press Ctrl+N. Open the New page. 
+ 
+ 5.What are the things that we can notice after opening the Excel interface?
+ The interface components of Excel include the Quick Access Toolbar, Ribbon, Name Box, Formula Quick Menu, Formula Bar, Status Bar, 
+ Worksheet View Options,Zoom Slider Control, and the Zoom Percentage Indicator.
+ 
+6. When to use a relative cell reference in excel?
+By default, a cell reference is a relative reference, which means that the reference is relative to the location of the cell. 
+If, for example, you refer to cell A2 from cell C2, you are actually referring to a cell that is two columns to the left (C minus A)—in the same row (2).
