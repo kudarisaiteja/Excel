@@ -1,0 +1,31 @@
+1. What does the dollar($) sign do?
+In Excel, a dollar sign can denote a currency format, but it has another common use: indicating absolute cell references in formulas.
+
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+Select the cell that contains the formula.
+In the formula bar. , select the reference that you want to change.
+Press F4 to switch between the reference types.
+
+3. Explain the order of operations in excel?
+If a formula contains operators with the same precedence—for example, if a formula contains both a multiplication and division operator—Excel
+ evaluates the operators from left to right. To change the order of evaluation, enclose in parentheses the part of the formula to be calculated first.
+
+
+4. What, according to you, are the top 5 functions in excel and write a basic syntaxfor any of five?
+VLookup Formula.
+Concatenate Formula.
+Text to Columns.
+Remove Duplicates.
+Pivot Tables.
+
+
+5. When would you use the subtotal function?
+The SUBTOTAL function is designed for columns of data, or vertical ranges. It is not designed for rows of data, or horizontal ranges.
+ For example, when you subtotal a horizontal range using a function_num of 101 or greater, such as SUBTOTAL(109,B2:G2),
+ hiding a column does not affect the subtotal.
+
+
+6. What is the syntax of the vlookup function? Explain the terms in it?
+In its simplest form, the VLOOKUP function says: =VLOOKUP(What you want to look up, where you want to look for it,
+ the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
